@@ -1,4 +1,4 @@
-/* feedreader.js
+/* feedreader.js starter code provided by Udacity
  *
  * This is the spec file that Jasmine will read and contains
  * all of the tests that will be run against your application.
